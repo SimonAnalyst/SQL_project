@@ -1,4 +1,4 @@
-# SQL Case Study: Balanced Tree
+# SQL Case Study: Balanced Tree Clothing Co.
 
 - **Author:** Szymon Swiezy
 - **Email:** szymon.swiezy1@gmail.com
