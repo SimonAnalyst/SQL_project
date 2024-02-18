@@ -34,7 +34,7 @@ Balanced Tree Clothing Company aims to enhance its understanding of sales perfor
 
 ### B. Transaction Analysis
 
-#### View my solution [HERE](link_to_solution).
+#### View my solution [HERE](https://github.com/SimonAnalyst/SQL_project/blob/main/Solutions/B.%20Transaction%20Analysis.md).
 
 1. How many unique transactions were there?
 2. What is the average unique products purchased in each transaction?
@@ -45,7 +45,7 @@ Balanced Tree Clothing Company aims to enhance its understanding of sales perfor
 
 ### C. Product Analysis
 
-#### View my solution [HERE](link_to_solution).
+#### View my solution [HERE](https://github.com/SimonAnalyst/SQL_project/blob/main/Solutions/C.%20Product%20Analysis.md).
 
 2. What are the top 3 products by total revenue before discount?
 3. What is the total quantity, revenue, and discount for each segment?
