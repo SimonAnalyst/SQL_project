@@ -23,7 +23,7 @@ Balanced Tree Clothing Company aims to enhance its understanding of sales perfor
 
 ### A. High Level Sales Analysis
 
-#### View my solution [HERE](link_to_solution).
+#### View my solution [HERE](https://github.com/SimonAnalyst/SQL_project/blob/main/Solutions/A.%20High%20Level%20Sales%20Analysis.md).
 
 1. What was the total quantity sold for all products?
 2. What was the total quantity sold for each product?
