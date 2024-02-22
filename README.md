@@ -2,9 +2,8 @@
 
 - **Author:** Szymon Swiezy
 - **Email:** szymon.swiezy1@gmail.com
-- **Website:** ---
-- **LinkedIn:** ---
-
+- **Website:** https://www.datascienceportfol.io/szymonswiezy
+- **LinkedIn:** www.linkedin.com/in/szymon-świeży
 
 <p align="center">
 <img src="https://github.com/SimonAnalyst/SQL-project/blob/main/7.png?raw=true" align="center" width="400" height="400" >
