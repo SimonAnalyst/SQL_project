@@ -5,8 +5,13 @@
 - **Website:** https://www.datascienceportfol.io/szymonswiezy
 - **LinkedIn:** www.linkedin.com/in/szymon-świeży
 
+
+
 <p align="center">
-<img src="https://github.com/SimonAnalyst/SQL-project/blob/main/7.png?raw=true" align="center" width="400" height="400" >
+    <img src="https://github.com/SimonAnalyst/SQL_project/assets/154997462/f34ee754-f8f0-44e0-81bd-7849f4873b42" alt="7" style="width: 400px; height: 400px;">
+</div>
+
+
 
 ## Overview
 
