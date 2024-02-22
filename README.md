@@ -2,7 +2,7 @@
 
 - **Author:** Szymon Swiezy
 - **Email:** szymon.swiezy1@gmail.com
-- **Website:** https://www.datascienceportfol.io/szymonswiezy
+- **Website:** www.datascienceportfol.io/szymonswiezy
 - **LinkedIn:** www.linkedin.com/in/szymon-świeży
 
 
